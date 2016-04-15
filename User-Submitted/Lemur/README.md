@@ -5,8 +5,9 @@
 ###8 Faders with Labels 
 + Fader Pages 
 + Faders light up when when intensity>0.0 
-+ Go/Stop Button with Time Progress 
++ Fire/Stop Buttons
 + Press the labels for load! 
++ Go/Stop Button with Time Progress 
 
 ###Attribute Editor (WIP) 
 + Softkeys 
